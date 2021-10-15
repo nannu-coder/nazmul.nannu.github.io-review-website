@@ -10,6 +10,7 @@ body {
   margin-top: 20px;
   text-transform: uppercase;
   font-weight: bold;
+  padding-bottom: 60px;
 }
 .about-title span {
   color: #ffbc09;
