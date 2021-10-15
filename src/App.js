@@ -31,6 +31,10 @@ function App() {
             <SignUp></SignUp>
           </Route>
 
+          <Route path='/'>
+            <Home></Home>
+          </Route>
+
           <Route path='*'>
             <PageNotFound></PageNotFound>
           </Route>
